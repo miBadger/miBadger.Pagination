@@ -1,2 +1,3 @@
-# miBadger.Pagination
-The Pagination Component
+# Pagination
+
+The Pagination Component.
