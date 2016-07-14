@@ -26,7 +26,7 @@ class Pagination implements \Countable, \IteratorAggregate
 	private $itemsPerPage;
 
 	/**
-	 * Construct a pagiantion object with the given items en items per page.
+	 * Construct a pagination object with the given items en items per page.
 	 *
 	 * @param mixed[] $items
 	 * @param int $itemsPerPage
