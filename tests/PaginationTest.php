@@ -10,12 +10,14 @@
 
 namespace miBadger\Pagination;
 
+use PHPUnit\Framework\TestCase;
+
 /**
  * The pagination test class.
  *
  * @since 1.0.0
  */
-class PaginationTest extends \PHPUnit_Framework_TestCase
+class PaginationTest extends TestCase
 {
 	/** @var String[] The items. */
 	private $items;

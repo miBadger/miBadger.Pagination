@@ -3,6 +3,7 @@
 [![Build Status](https://scrutinizer-ci.com/g/miBadger/miBadger.Pagination/badges/build.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Pagination/build-status/master)
 [![Code Coverage](https://scrutinizer-ci.com/g/miBadger/miBadger.Pagination/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Pagination/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/miBadger/miBadger.Pagination/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Pagination/?branch=master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/01f33a6e-01fa-408b-a3e8-022d7b5e71fa/mini.png)](https://insight.sensiolabs.com/projects/01f33a6e-01fa-408b-a3e8-022d7b5e71fa)
 
 The Pagination Component.
 
